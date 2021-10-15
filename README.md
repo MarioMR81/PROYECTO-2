@@ -1,9 +1,11 @@
 # MANUAL DEL USUARIO
 
-Introducción
+# Introducción
+
 Acontinuacion encontrara una brebe explicacion de como utilizar este programa creado en C++ con la finalidad del manejo de archivos como por ejemplo modificar, guardar y leer archivos desde C++ todo esto para tener una mejor finalidad con el programa y que pueda comprender los distintos caracteres del programa pero principalmente pueda conocer el funcionamiento adecuado de dicho programa para utilizarlo al maximo.
 
-Objetivos:
+# Objetivos:
+
 El objetivo de este documento o manual es brindar la mayor informacion posible para el uso de esta aplicacion a su maximo nivel y tambien brinar esa informacion de una manera sencilla y clara para todo el publico
 
 Conocer a prfunidad el manejo de archivos en C++ pero principalmente el manejo de la informacion dentro de esos archivos todo esto de acuerdo a lo solicitado por el usuario
