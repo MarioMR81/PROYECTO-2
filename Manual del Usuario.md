@@ -12,9 +12,13 @@
 
 3....Guia de Uso del Programa
 
+4....Solucion de Algunos Problemas
+
+5....Contactos
+
 # Introducción
 
-Acontinuacion encontrara una brebe explicacion de como utilizar este programa creado en C++ con la finalidad del manejo de archivos como por ejemplo modificar, guardar y leer archivos desde C++ todo esto para tener una mejor finalidad con el programa y que pueda comprender los distintos caracteres del programa pero principalmente pueda conocer el funcionamiento adecuado de dicho programa para utilizarlo al maximo.
+Acontinuacion encontrara una brebe explicacion de como utilizar este programa creado en C++ con la finalidad del manejo de archivos como por ejemplo modificar, guardar y leer archivos desde C++ todo esto para tener una mejor finalidad con el programa y que pueda comprender los distintos caracteres del programa pero principalmente pueda conocer el funcionamiento adecuado de dicho programa para utilizarlo al maximo. Este proyecto se creo con la finalidad de saber como manipular archivos de texto desde C++ para tener un mejor conocimiento de dichas practicas utilizando las enseñanzas en clase para la elaboracion de este proyecto.
 
 
 # Objetivos:
@@ -78,3 +82,18 @@ Luego de utiliar todas las funciones y ver la funcionalidad de cada una de ellas
 
 ![9](https://user-images.githubusercontent.com/91577396/137568330-e5a9e326-d794-43fe-9e67-5520035c0279.PNG)
 
+# Solucion de algunos Problemas 
+
+Al programar este proyecto es posible que se encuentran algunos fallos al momento de guardar informacion o que se modifique dicha informacion ya que hay algunas incognitas pero hemos logrado la solucion de dichos problemas estos son algunos de los mas comunes.
+
+Modificar Informacion:
+
+Este pequeño problema se presenta cuando se modifica la informacion del alumno cuando nosotros decidamos guardar la informacion de los alumnos en el archivo Registro.Txt se puede presentar un problema el cual se desarrolla al momento de guardar los nuevos promedios y estados de los alumnos aveces al momento de guardarse no se concatenan bien en el archivo y pueden transcribir algunos datos dentro del archivo la solucion de esto no utilizar demasiados caracteres al momento de ingresar los nuevos datos y tambien verificar si se ingresaron de manera correcta en el alumno correcto
+
+Guardar Informacion:
+
+Al momento de iniciar el programa o de solicitar aveces se puede ingresar mal la informacion lo cual se debe de tener un poco de cuidado mas con el numero de carné porque si este se coloca mal o no se coloca no se podra realizar la busqueda de dicho alumno como tampoco la modificacion de los nuevos datos tomar mucho en cuenta el numero de carné al momento de ingresar los datos.
+
+
+Mario Quiñonez 7690-21-2086 Universidad Mariano Galvez
+Facultad de Ingenieria en Sistemas 
