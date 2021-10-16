@@ -46,4 +46,20 @@ Salir
 
 ![Captura](https://user-images.githubusercontent.com/91577396/137566861-f74097e2-f937-4153-9549-1ac8d8e64a31.PNG)
 
+Luego de ingresar al menu principal podremos seleccionar las opcciones que deseemos pero como primer punto debemos de crear un registro para comenzar a trabajar con las demas opcciones entonces ingresamos el numero "1" para iniciar la opccion de agregar un alumno luego se nos presentara una serie de preguntas en las cuales debemos de ingresar la informacion del alumno como el Nombre, Apellido, Carné (Muy importante porque con eso se realiza la busqueda y modificacion de los datos) entre otros datos.
+
+![2](https://user-images.githubusercontent.com/91577396/137567387-c6a5c8ba-1c1d-4c51-9085-e0e62e8367a2.PNG)
+
+Al haber ingresado los datos o informacion del alumno tambien vemos que se nos crea un archivo Txt llamado Registo en la carpeta en donde decidamos tener el archivo y al abrir dicho archivo txt vemos que se han guardado los datos que hemos ingresado desde la consola de C++ 
+
+![3](https://user-images.githubusercontent.com/91577396/137567487-58b8f9cd-aeb2-4127-a6fb-06e2a8572570.PNG)
+
+Como podemos prescenciar todos los datos que ingresamos fueron guardados en el archivo llamado Registro.txt 
+
+![4](https://user-images.githubusercontent.com/91577396/137567611-41587b12-011f-457f-9269-f3f0c36b5892.PNG)
+
+Luego de Guardar el registro tendremos la opccion de regresar al menu principal para continuar con las opcciones del menu. Luego debemos de seleccionar la opccion numero "2" para poder buscar a los alumnos con el numero de carné que se ingreso al principio de la creacion de los archivos es por eso la importancia de tener en cuenta el numero de carné seleccionamos la opccion "2" y se nos desplegara una pregunta para inciar la buscada, ingresamos el numero de carné del alumno aceptamos los permisos y automaticamente se nos mostrara en la pantalla los datos del alumno desde el numero de Carne hasta el Promedio.
+
+![5](https://user-images.githubusercontent.com/91577396/137567917-083edab4-75a2-4394-8010-0ba63b891dd5.PNG)
+
 
