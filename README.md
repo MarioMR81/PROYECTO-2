@@ -62,4 +62,12 @@ Luego de Guardar el registro tendremos la opccion de regresar al menu principal 
 
 ![5](https://user-images.githubusercontent.com/91577396/137567917-083edab4-75a2-4394-8010-0ba63b891dd5.PNG)
 
+Ahora que ya podemos buscar al alumno tambien si se ingresa mal el numero del carné del alumno nos mostrara un mensaje de que el numer de Carné no Existe y luego regresaremos al menu principal
+
+![6](https://user-images.githubusercontent.com/91577396/137568008-197c0f8a-c7a4-49e1-bfc7-6adddf7df23b.PNG)
+
+Al regresar al menu principal nos queda una de las opcciones mas utilizadas es la de modificar datos primero debemos ingresar el numero de Carne recordando que dos de las opcciones funcionan con la busqueda del numero de Carné es por eso la importancia de este dato, lo ingresamos y se nos mostrara el mensaje de modificar Estatus del alumno y tambien el Promedio ingresamos los nuevos datos y se guardaran en el archivo de texto llamadao Registro
+
+![7](https://user-images.githubusercontent.com/91577396/137568192-4249960c-0c35-4e0e-a652-29d65dba79b3.PNG)
+
 
