@@ -70,4 +70,11 @@ Al regresar al menu principal nos queda una de las opcciones mas utilizadas es l
 
 ![7](https://user-images.githubusercontent.com/91577396/137568192-4249960c-0c35-4e0e-a652-29d65dba79b3.PNG)
 
+Tambien tendremos los datos nuevos ingresados en el archivo Registro.txt haciendonos referencia que son nuevos datos 
+
+![8](https://user-images.githubusercontent.com/91577396/137568285-cd6f3be5-4089-422d-b412-feff7a58ef18.PNG)
+
+Luego de utiliar todas las funciones y ver la funcionalidad de cada una de ellas solo nos queda el salir de ejecucion del programa y para eso ingresamos la opccion "4" y saldremos del programa sin antes que se nos muestre la opccion de salir 
+
+![9](https://user-images.githubusercontent.com/91577396/137568330-e5a9e326-d794-43fe-9e67-5520035c0279.PNG)
 
